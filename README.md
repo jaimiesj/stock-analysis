@@ -10,8 +10,8 @@ The purpose of this project was to evaluate the performance of certain stocks of
 ### Results
 For the original code, the time to complete the 2017 and 2018 analysis were as follows:
 
-<img width="620" alt="Stock report for 2017_Original Code" src="https://user-images.githubusercontent.com/88955412/131281800-47475830-2534-4bc4-ac26-5e82685845da.png">
-<img width="620" alt="Stock report for 2018_Original Code" src="https://user-images.githubusercontent.com/88955412/131281807-bac80da7-4706-4ef0-917b-8f2f9ebc4f02.png">
+<img width="156" alt="Original Code Time for 2017" src="https://user-images.githubusercontent.com/88955412/131284356-75de46e1-a6d9-476f-83e8-5641fff00dfa.png">
+<img width="156" alt="Original Code Time for 2018" src="https://user-images.githubusercontent.com/88955412/131284361-23ae67ac-1ff8-4a18-9726-2a0ae435c799.png">
 
 The code was as follows:
 
@@ -294,6 +294,7 @@ As definied in the challenge, refactoring is all about making code more efficien
 ### For VBA script 
 I know VBA script is not quite the most robust coding language but it is a great stepping stone. Despite the efficiencies that refactoring VBA script provides, VBA is limited in it's capabilities and requires far more definitions than other coding languages which I can imagine would add a level of unncessary work while trying to clean up code.
 
-Although there is not much to share, additional information can be found in the Resources folder 
+Although there is not much to share, additional information can be found in the Resources folder
+https://github.com/jaimiesj/stock-analysis/commit/33e92ac8feb3fa9d20a6b2095a9e76ffa3dc9987
 
 
